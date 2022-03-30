@@ -1,2 +1,2 @@
-# lemmatization
+# Lemmatization
 Lemmatization
